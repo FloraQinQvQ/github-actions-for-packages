@@ -1,4 +1,6 @@
-name: Docker CD
+# This file wont do us much good in this location, make sure you change the path as directed to continue!
+
+name: Node CI
 
 on:
   push:
